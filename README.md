@@ -1,2 +1,2 @@
-# Hero-Training-
+# Hero-Training
 React Expo Demo project
